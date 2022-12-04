@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mrprayag770/reacttestapp-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/Mrprayag770/reacttestapp-gh-pages/static/js/main.702bcc93.js",
-    "static/js/787.f913d1a8.chunk.js": "/Mrprayag770/reacttestapp-gh-pages/static/js/787.f913d1a8.chunk.js",
-    "static/media/logo.svg": "/Mrprayag770/reacttestapp-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Mrprayag770/reacttestapp-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/Mrprayag770/reacttestapp-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.702bcc93.js.map": "/Mrprayag770/reacttestapp-gh-pages/static/js/main.702bcc93.js.map",
-    "787.f913d1a8.chunk.js.map": "/Mrprayag770/reacttestapp-gh-pages/static/js/787.f913d1a8.chunk.js.map"
+    "main.css": "/reacttestapp-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/reacttestapp-gh-pages/static/js/main.952402e6.js",
+    "static/js/787.f913d1a8.chunk.js": "/reacttestapp-gh-pages/static/js/787.f913d1a8.chunk.js",
+    "static/media/logo.svg": "/reacttestapp-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reacttestapp-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/reacttestapp-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.952402e6.js.map": "/reacttestapp-gh-pages/static/js/main.952402e6.js.map",
+    "787.f913d1a8.chunk.js.map": "/reacttestapp-gh-pages/static/js/787.f913d1a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.702bcc93.js"
+    "static/js/main.952402e6.js"
   ]
 }
